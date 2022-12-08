@@ -4,7 +4,7 @@ This repository contains the code for Pawpularity IDS2022 project made by Viache
 
 ## Required packkages
 
-* Fasai
+* Fastai
 * Pytorch
 * Pandas
 * timm
